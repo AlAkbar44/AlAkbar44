@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Al Akbar Himawan 👋
 
-<!--
-**AlAkbar44/AlAkbar44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Freelance Data Analyst | Finance & Business
+📍 Sidoarjo, Indonesia | Open to Remote Work
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Skills
+- **SQL & MySQL** — Intermediate
+- **Microsoft Excel** — Proficient
+- **Tableau** — Beginner - Intermediate
+- **SPSS** — Beginner - Intermediate
+- **Looker Studio** — Beginner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- 🏛️ **Data Analyst Intern** — Badan Pusat Statistik (BPS) | May–Aug 2025
+- 🌐 **Freelance Quality Control Analyst** — Brainly, Inc. | 2023–2024
+
+## 📜 Certifications
+- MySQL for Data Analytics — Analyst Builder (2026)
+- Internship Completion Certificate — BPS Kabupaten Sidoarjo (2025)
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: linkedin.com/in/alakbarhimawan
+- 📧 Email: himawanalakbar6@gmail.com
