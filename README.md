@@ -8,6 +8,7 @@
 - **Microsoft Excel** — Proficient
 - **Tableau** — Beginner - Intermediate
 - **SPSS** — Beginner - Intermediate
+- **Python** — Beginner - Intermediate (Data Processing & Web Scraping)
 - **Looker Studio** — Beginner
 
 ## 💼 Experience
